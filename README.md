@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm PeterWu
 
+### My Stack
+<img src="https://camo.githubusercontent.com/a03b9d201d465080af1edab0567a0b3f2753b94a8b082cf0ecf4552cc062ca80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d5f2d5f3f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6162656c436f6c6f723d776869746526636f6c6f723d7768697465"/>
 <!--
 **PeterWu520/PeterWu520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
