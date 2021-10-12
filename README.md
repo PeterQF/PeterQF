@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm PeterWu Talekar</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm PeterWu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudnyeshtalekar" alt="sudnyeshtalekar" /> </p>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/45736174/136896836-895d383d-5846-439f-8972-fc18441cf7d6.gif" />
