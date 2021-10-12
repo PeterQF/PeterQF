@@ -1,10 +1,12 @@
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm PeterWu</h1>
 
-<img align="center" src="https://img.shields.io/badge/Android-Developer-brightgreen" />
-<img align="center" src="https://img.shields.io/badge/Kotlin-Lover-blueviolet" />
-<img align="center" src="https://img.shields.io/badge/Java-Enthusiast-yellow" />
+<div style="align: center">
+  <img align="center" src="https://img.shields.io/badge/Android-Developer-brightgreen"/>
+  <img align="center" src="https://img.shields.io/badge/Kotlin-Lover-blueviolet"/>
+  <img align="center" src="https://img.shields.io/badge/Java-Enthusiast-yellow"/>
+</div>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/45736174/136896836-895d383d-5846-439f-8972-fc18441cf7d6.gif" />
+
 
 ### My Stack
 <img src="https://camo.githubusercontent.com/dc389303f8684ada0aa896d781fb5f6c1779587af38dea483ad62033d0207e49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d5f2d5f3f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6162656c436f6c6f723d776869746526636f6c6f723d7768697465266c6f676f436f6c6f723d677265656e"/>
