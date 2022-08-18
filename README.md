@@ -6,7 +6,7 @@
   <img align="center" src="https://img.shields.io/badge/Java-Enthusiast-yellow"/>
 </div>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/21078112/163754171-0e917f6d-22e9-4add-8705-b664d12949a6.gif" />
+<img align="right" alt="GIF" width="240px" height="240px" src="https://user-images.githubusercontent.com/21078112/163754171-0e917f6d-22e9-4add-8705-b664d12949a6.gif" />
 
 ### My Stack
 <img src="https://camo.githubusercontent.com/dc389303f8684ada0aa896d781fb5f6c1779587af38dea483ad62033d0207e49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d5f2d5f3f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6162656c436f6c6f723d776869746526636f6c6f723d7768697465266c6f676f436f6c6f723d677265656e"/>
