@@ -8,6 +8,14 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
+### 👨🏻‍💻 About Me:
+- 🤔 &nbsp; Exploring new technologies and developing client tool software.
+- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 💼 &nbsp; I’m currently working on Android Development projects.
+- 🌱 &nbsp; Learning more about Android Architectures and Frontend Developement.Also, I really enjoy attending tech related events.
+- ⚡ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+- 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
+
 ### 🛠 Technologies & Tools
 ![Android](https://img.shields.io/badge/-Android-brightgreen?style=&logo=Android&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-blue?style=&logo=Java&logoColor=white)
