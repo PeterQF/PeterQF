@@ -6,14 +6,19 @@
   <img align="center" src="https://img.shields.io/badge/Java-Enthusiast-yellow"/>
 </div>
 
-<img align="right" alt="GIF" width="320px" height="180px" src="https://user-images.githubusercontent.com/21078112/163754171-0e917f6d-22e9-4add-8705-b664d12949a6.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-### My Stack
-<img src="https://camo.githubusercontent.com/dc389303f8684ada0aa896d781fb5f6c1779587af38dea483ad62033d0207e49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d5f2d5f3f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6162656c436f6c6f723d776869746526636f6c6f723d7768697465266c6f676f436f6c6f723d677265656e"/>
-
-<img src="https://camo.githubusercontent.com/a03b9d201d465080af1edab0567a0b3f2753b94a8b082cf0ecf4552cc062ca80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d5f2d5f3f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6162656c436f6c6f723d776869746526636f6c6f723d7768697465"/>
-
-<img src="https://camo.githubusercontent.com/47deda33ab55aea9fde506e66fb1aa9468ee27570511cdae178750e1be53174e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d5f2d5f3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6162656c436f6c6f723d776869746526636f6c6f723d7768697465266c6f676f436f6c6f723d303037333936"/>
+### 🛠 Technologies & Tools
+![Android](https://img.shields.io/badge/-Android-brightgreen?style=&logo=Android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-blue?style=&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=&logo=kotlin)
+![Groovy](https://img.shields.io/badge/-Groovy-9cf?style=&logo=groovy&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-brightgreen?style=&logo=AndroidStudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=&logo=visual-studio-code&logoColor=white)
+![MarkDown](https://img.shields.io/badge/-MarkDown-white?style=&logo=MarkDown&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=&logo=github&logoColor=white)
 
 <!--
 **PeterWu520/PeterWu520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
